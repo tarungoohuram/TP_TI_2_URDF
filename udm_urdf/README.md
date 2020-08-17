@@ -8,7 +8,7 @@ To install this package you must clone it in the src folder of your catkin works
 
 ```sh
 cd catkin_ws/src
-git clone https://github.com/Kramoth/udm_urdf.git
+git clone https://github.com/tarungoohuram/TP_TI_2_URDF
 catkin build
 cd ..
 source devel/setup.bash
